@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "name": "Poha",
+    "category": "breakfast",
+    "price": 40,
+    "image": "http://localhost:8000/img/Poha.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Idli",
+    "category": "breakfast",
+    "price": 35,
+    "image": "http://localhost:8000/img/Idli.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Plain Dosa",
+    "category": "breakfast",
+    "price": 40,
+    "image": "http://localhost:8000/img/Plain%20Dosa.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Masala Dosa",
+    "category": "breakfast",
+    "price": 45,
+    "image": "http://localhost:8000/img/Masala%20Dosa.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tea",
+    "category": "breakfast",
+    "price": 10,
+    "image": "http://localhost:8000/img/Tea.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Coffee",
+    "category": "breakfast",
+    "price": 10,
+    "image": "http://localhost:8000/img/Coffee.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dal Rice",
+    "category": "lunch",
+    "price": 50,
+    "image": "http://localhost:8000/img/Dal%20Rice.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Paneer Curry",
+    "category": "lunch",
+    "price": 60,
+    "image": "http://localhost:8000/img/Paneer%20Curry.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Chapati",
+    "category": "lunch",
+    "price": 10,
+    "image": "http://localhost:8000/img/Chapati.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Curd-Rice",
+    "category": "lunch",
+    "price": 25,
+    "image": "http://localhost:8000/img/Curd%20Rice.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Samosa",
+    "category": "snacks",
+    "price": 15,
+    "image": "http://localhost:8000/img/Samosa.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Pakora",
+    "category": "snacks",
+    "price": 20,
+    "image": "http://localhost:8000/img/Pakora.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Sandwich",
+    "category": "snacks",
+    "price": 30,
+    "image": "http://localhost:8000/img/Sandwich.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Veg Biryani",
+    "category": "dinner",
+    "price": 70,
+    "image": "http://localhost:8000/img/Veg%20Biryani.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Paneer Biryani",
+    "category": "dinner",
+    "price": 80,
+    "image": "http://localhost:8000/img/Paneer%20Biryani.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Dal Tadka",
+    "category": "dinner",
+    "price": 45,
+    "image": "http://localhost:8000/img/Dal%20Tadka.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Chapati (Dinner)",
+    "category": "dinner",
+    "price": 10,
+    "image": "http://localhost:8000/img/Chapati%20(Dinner).jpg"
+  }
+]
