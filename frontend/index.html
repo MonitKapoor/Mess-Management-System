@@ -31,5 +31,14 @@
       <div class="loading">Loading Campus Mess...</div>
     </div>
     <script type="module" src="/src/main.tsx"></script>
+    <script>
+      // Fallback: if React app doesn't load, redirect after 5 seconds
+      setTimeout(function() {
+        var loading = document.querySelector('.loading');
+        if (loading) {
+          window.location.href = '/error.html';
+        }
+      }, 5000);
+    </script>
   </body>
 </html>
